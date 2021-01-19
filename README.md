@@ -9,8 +9,8 @@ Graded lexicographic order (grlex order for short) is a way of ordering words th
 
 For example, in grlex order:
 
-	`"tray"` < `"trapped"` since `"tray"` has length `4` while `"trapped"` has length `7`.
-	`"trap"` < `"tray"` since both have length 4, but `"trap"` comes before `"tray"` in the dictionary.
+	"tray" < "trapped" since "tray" has length 4 while "trapped" has length 7.
+	"trap" < "tray" since both have length 4, but "trap" comes before "tray" in the dictionary.
 
 Given a vector of words, returns that vector in grlex order.
 
