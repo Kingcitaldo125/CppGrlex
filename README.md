@@ -17,4 +17,4 @@ Given a vector of words, returns that vector in grlex order.
 To run the code, simply run the source file through a compiler that supports the C++ 11 standard.
 Code was compiled on Windows, using the MSVC++ compiler (optimizing compiler).
 
-Example: `g++ main.cpp -o main` and then `./main`.
+Example: `g++ -std=c++11 main.cpp -o main` and then `./main`.
